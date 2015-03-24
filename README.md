@@ -2,6 +2,7 @@
 ### The University of Texas at Austin
 * PhD student, Institute of Cellular and Molecular Biology
   * Advisors: Dr. Alan M. Lambowitz
+
 ### University of Illinois at Urbana Champaign
 * B.S. (GPA of 3.67), Biochemistry
   * Biochemistry High Distinction Award
