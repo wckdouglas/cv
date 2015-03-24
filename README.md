@@ -25,7 +25,7 @@ Winter 2013-present
 Department of Biomedical Engineering
 University of Texas at Austin
 Fall 2013
-￼￼ * Computer simulation for quantifying magnetic-induced force that directs embryoid bodies into mesodermal lineages [(paper)](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0113982)
+* Computer simulation for quantifying magnetic-induced force that directs embryoid bodies into mesodermal lineages [(paper)](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0113982)
 
 ### Prof. Ning Wang’s lab
 Department of Mechanical Engineering
