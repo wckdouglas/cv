@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2013.10.5)  20 OCT 2015 13:22
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2013.10.5)  20 OCT 2015 13:31
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -296,7 +296,7 @@ las_cv_short.aux) )
 Here is how much of TeX's memory you used:
  2296 strings out of 493311
  33887 string characters out of 6137850
- 102004 words of memory out of 5000000
+ 103004 words of memory out of 5000000
  5720 multiletter control sequences out of 15000+600000
  20405 words of font info for 42 fonts, out of 8000000 for 9000
  957 hyphenation exceptions out of 8191
@@ -308,7 +308,7 @@ fb></usr/local/texlive/2013/texmf-dist/fonts/type1/urw/courier/ucrr8a.pfb></usr
 live/2013/texmf-dist/fonts/type1/urw/times/utmbi8a.pfb></usr/local/texlive/2013
 /texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/local/texlive/2013/texmf-dis
 t/fonts/type1/urw/times/utmri8a.pfb>
-Output written on Douglas_cv_short.pdf (1 page, 67673 bytes).
+Output written on Douglas_cv_short.pdf (1 page, 67883 bytes).
 PDF statistics:
  33 PDF objects out of 1000 (max. 8388607)
  23 compressed objects within 1 object stream
