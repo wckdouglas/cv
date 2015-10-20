@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2013.10.5)  20 OCT 2015 13:31
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2013.10.5)  20 OCT 2015 14:17
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -267,51 +267,65 @@ File: ot1pcr.fd 2001/06/04 font definitions for OT1/pcr.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <12> not available
 (Font)              Font shape `OT1/ptm/b/n' tried instead on input line 23.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10.95> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 32.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 25.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <10.95> not available
-(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 33.
-LaTeX Font Info:    Try loading font information for OMS+ptm on input line 38.
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 26.
+LaTeX Font Info:    Try loading font information for OMS+ptm on input line 31.
 
 (/usr/local/texlive/2013/texmf-dist/tex/latex/psnfss/omsptm.fd
 File: omsptm.fd 
 )
 LaTeX Font Info:    Font shape `OMS/ptm/m/n' in size <10.95> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 38.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 31.
 
-Underfull \hbox (badness 10000) in paragraph at lines 102--106
+Underfull \hbox (badness 10000) in paragraph at lines 49--53
 
  []
 
+! Extra }, or forgotten \endgroup.
+l.56 ...n, R, Bash, MySQL, Matlab, Octave, C++/C}}
+                                                  , \LaTeX
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <10.95> on input line 110.
+(Font)              <10.95> on input line 56.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 110.
+(Font)              <8> on input line 56.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 110.
+(Font)              <6> on input line 56.
 [1
 Non-PDF special ignored!
 
-{/usr/local/texlive/2013/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] (./Doug
-las_cv_short.aux) ) 
+{/usr/local/texlive/2013/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
+Underfull \hbox (badness 10000) in paragraph at lines 110--114
+
+ []
+
+[2] (./Douglas_cv_short.aux) ) 
 Here is how much of TeX's memory you used:
  2296 strings out of 493311
  33887 string characters out of 6137850
- 103004 words of memory out of 5000000
+ 102004 words of memory out of 5000000
  5720 multiletter control sequences out of 15000+600000
  20405 words of font info for 42 fonts, out of 8000000 for 9000
  957 hyphenation exceptions out of 8191
- 38i,4n,31p,249b,180s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/local/texlive/2013/texmf-dist/fonts/enc/dvips/base/8r.
-enc}</usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.p
-fb></usr/local/texlive/2013/texmf-dist/fonts/type1/urw/courier/ucrr8a.pfb></usr
-/local/texlive/2013/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/local/tex
-live/2013/texmf-dist/fonts/type1/urw/times/utmbi8a.pfb></usr/local/texlive/2013
-/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/local/texlive/2013/texmf-dis
-t/fonts/type1/urw/times/utmri8a.pfb>
-Output written on Douglas_cv_short.pdf (1 page, 67883 bytes).
+ 38i,4n,31p,518b,180s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/local/texlive/2013/texmf-dist/fonts/enc/dvi
+ps/base/8r.enc}</usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/
+cm/cmsy10.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/c
+m/cmsy8.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/urw/courier/ucrr8a.
+pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/
+local/texlive/2013/texmf-dist/fonts/type1/urw/times/utmbi8a.pfb></usr/local/tex
+live/2013/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/local/texlive/2013/
+texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
+Output written on Douglas_cv_short.pdf (2 pages, 79150 bytes).
 PDF statistics:
- 33 PDF objects out of 1000 (max. 8388607)
- 23 compressed objects within 1 object stream
+ 40 PDF objects out of 1000 (max. 8388607)
+ 28 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 

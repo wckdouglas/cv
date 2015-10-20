@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2013.10.5)  20 OCT 2015 13:18
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2013.10.5)  20 OCT 2015 13:45
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -153,19 +153,19 @@ Package: times 2005/04/12 PSNFSS-v9.2a (SPQR)
 (./Douglas_cv.aux)
 \openout1 = `Douglas_cv.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 10.
-LaTeX Font Info:    ... okay on input line 10.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 10.
-LaTeX Font Info:    ... okay on input line 10.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 10.
-LaTeX Font Info:    ... okay on input line 10.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 10.
-LaTeX Font Info:    ... okay on input line 10.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 10.
-LaTeX Font Info:    ... okay on input line 10.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 10.
-LaTeX Font Info:    ... okay on input line 10.
-LaTeX Font Info:    Try loading font information for OT1+ptm on input line 10.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Try loading font information for OT1+ptm on input line 12.
 
 (/usr/local/texlive/2013/texmf-dist/tex/latex/psnfss/ot1ptm.fd
 File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
@@ -235,15 +235,15 @@ e
 * layoutoffset:(h,v)=(0.0pt,0.0pt)
 * modes: 
 * h-part:(L,W,R)=(54.2025pt, 505.89pt, 54.2025pt)
-* v-part:(T,H,B)=(43.362pt, 686.56499pt, 65.043pt)
+* v-part:(T,H,B)=(28.90799pt, 722.7pt, 43.362pt)
 * \paperwidth=614.295pt
 * \paperheight=794.96999pt
 * \textwidth=505.89pt
-* \textheight=686.56499pt
+* \textheight=722.7pt
 * \oddsidemargin=-18.06749pt
 * \evensidemargin=-18.06749pt
-* \topmargin=-65.90799pt
-* \headheight=12.0pt
+* \topmargin=-80.362pt
+* \headheight=5.0pt
 * \headsep=25.0pt
 * \topskip=11.0pt
 * \footskip=30.0pt
@@ -260,52 +260,48 @@ e
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-LaTeX Font Info:    Try loading font information for OT1+pcr on input line 18.
+LaTeX Font Info:    Try loading font information for OT1+pcr on input line 20.
 (/usr/local/texlive/2013/texmf-dist/tex/latex/psnfss/ot1pcr.fd
 File: ot1pcr.fd 2001/06/04 font definitions for OT1/pcr.
 )
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <12> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 23.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 25.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10.95> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 32.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 34.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <10.95> not available
-(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 33.
-LaTeX Font Info:    Try loading font information for OMS+ptm on input line 38.
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 35.
+LaTeX Font Info:    Try loading font information for OMS+ptm on input line 40.
 
 (/usr/local/texlive/2013/texmf-dist/tex/latex/psnfss/omsptm.fd
 File: omsptm.fd 
 )
 LaTeX Font Info:    Font shape `OMS/ptm/m/n' in size <10.95> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 38.
- [1
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 40.
+
+Underfull \hbox (badness 10000) in paragraph at lines 120--124
+
+ []
+
+[1
 Non-PDF special ignored!
 
 {/usr/local/texlive/2013/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
-Underfull \hbox (badness 10000) in paragraph at lines 125--129
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <10.95> on input line 143.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 143.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 143.
+
+Underfull \hbox (badness 10000) in paragraph at lines 150--154
 
  []
 
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <10.95> on input line 148.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 148.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 148.
-
-Underfull \hbox (badness 10000) in paragraph at lines 156--160
-
- []
-
-[2]
-Underfull \hbox (badness 10000) in paragraph at lines 190--191
-
- []
-
-[3] (./Douglas_cv.aux) ) 
+[2] (./Douglas_cv.aux) ) 
 Here is how much of TeX's memory you used:
  2296 strings out of 493311
  33833 string characters out of 6137850
- 103004 words of memory out of 5000000
+ 102993 words of memory out of 5000000
  5720 multiletter control sequences out of 15000+600000
  20405 words of font info for 42 fonts, out of 8000000 for 9000
  957 hyphenation exceptions out of 8191
@@ -318,10 +314,10 @@ usr/local/texlive/2013/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/local/
 texlive/2013/texmf-dist/fonts/type1/urw/times/utmbi8a.pfb></usr/local/texlive/2
 013/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/local/texlive/2013/texmf-
 dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on Douglas_cv.pdf (3 pages, 79920 bytes).
+Output written on Douglas_cv.pdf (2 pages, 80180 bytes).
 PDF statistics:
- 43 PDF objects out of 1000 (max. 8388607)
- 30 compressed objects within 1 object stream
+ 40 PDF objects out of 1000 (max. 8388607)
+ 28 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
