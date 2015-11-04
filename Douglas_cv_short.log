@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2013.10.5)  20 OCT 2015 14:17
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2013.10.5)  20 OCT 2015 15:51
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -282,15 +282,6 @@ Underfull \hbox (badness 10000) in paragraph at lines 49--53
 
  []
 
-! Extra }, or forgotten \endgroup.
-l.56 ...n, R, Bash, MySQL, Matlab, Octave, C++/C}}
-                                                  , \LaTeX
-I've deleted a group-closing symbol because it seems to be
-spurious, as in `$x}$'. But perhaps the } is legitimate and
-you forgot something else, as in `\hbox{$x}'. In such cases
-the way to recover is to insert both the forgotten and the
-deleted material, e.g., by typing `I$}'.
-
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <10.95> on input line 56.
 LaTeX Font Info:    External font `cmex10' loaded for size
@@ -301,7 +292,7 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 Non-PDF special ignored!
 
 {/usr/local/texlive/2013/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
-Underfull \hbox (badness 10000) in paragraph at lines 110--114
+Underfull \hbox (badness 10000) in paragraph at lines 111--115
 
  []
 
@@ -322,7 +313,7 @@ pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/
 local/texlive/2013/texmf-dist/fonts/type1/urw/times/utmbi8a.pfb></usr/local/tex
 live/2013/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/local/texlive/2013/
 texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on Douglas_cv_short.pdf (2 pages, 79150 bytes).
+Output written on Douglas_cv_short.pdf (2 pages, 79397 bytes).
 PDF statistics:
  40 PDF objects out of 1000 (max. 8388607)
  28 compressed objects within 1 object stream
