@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.5.24)  4 NOV 2015 12:27
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.5.24)  4 NOV 2015 12:28
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -278,23 +278,22 @@ File: omsptm.fd
 )
 LaTeX Font Info:    Font shape `OMS/ptm/m/n' in size <10.95> not available
 (Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 33.
-
-Underfull \hbox (badness 10000) in paragraph at lines 113--117
-
- []
-
-[1
+ [1
 Non-PDF special ignored!
 
 {/usr/local/texlive/2015/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <10.95> on input line 136.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 136.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 136.
+Underfull \hbox (badness 10000) in paragraph at lines 114--118
 
-Underfull \hbox (badness 10000) in paragraph at lines 143--147
+ []
+
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <10.95> on input line 137.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 137.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 137.
+
+Underfull \hbox (badness 10000) in paragraph at lines 144--148
 
  []
 
@@ -315,7 +314,7 @@ usr/local/texlive/2015/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/local/
 texlive/2015/texmf-dist/fonts/type1/urw/times/utmbi8a.pfb></usr/local/texlive/2
 015/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/local/texlive/2015/texmf-
 dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on Douglas_cv.pdf (2 pages, 79953 bytes).
+Output written on Douglas_cv.pdf (2 pages, 79972 bytes).
 PDF statistics:
  40 PDF objects out of 1000 (max. 8388607)
  28 compressed objects within 1 object stream
