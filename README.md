@@ -13,14 +13,14 @@ Institute of Cellular and molecular Biology
 The University of Texas at Austin
 Spring 2013-present
 * Leukemia T-cell (Jurkat cell) whole cell RNA-seq library
-* RNA-seq analysis for exosomal RNA-seq and plasma RNA-seq data
+* RNA-seq analysis for exosomal RNA-seq and plasma RNA-seq data [(paper)](http://rnajournal.cshlp.org/content/early/2015/11/09/rna.054809.115.long)
 * Applying mathematical models on RNA-seq data
 
 ### Prof. Claus Wilke’s Lab
 Institute of Cellular and molecular Biology
 The University of Texas at Austin
 Winter 2013-present
-* Bioinformatics: RNA-seq analysis on plasma RNA library
+* Bioinformatics: RNA-seq analysis
 
 ### Prof. Laura Sugg’s Lab
 Department of Biomedical Engineering
