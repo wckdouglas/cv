@@ -1,0 +1,3 @@
+# exclude everything except pdf and tex
+!*pdf
+!*tex
