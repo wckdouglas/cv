@@ -1,3 +1,7 @@
 # exclude everything except pdf and tex
 !*pdf
 !*tex
+
+*.aux
+*.log
+*.synctex.gz
